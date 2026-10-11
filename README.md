@@ -82,15 +82,18 @@ Shipping Type Analysis
 
 
 Key Results & Insights
-Subscribers showed higher average spending compared to non-subscribers
-Loyal customers contributed significantly to repeat revenue
-Certain products performed better during discount campaigns
-Express shipping users had higher average purchase values
-Specific age groups contributed more to total revenue
+- Only 27% of customers are subscribers (1,053 of 3,900); subscribers and non-subscribers spend almost the same on average ($59.49 vs $59.87)
+- Repeat buyers (more than 5 previous purchases) subscribe slightly more often than others (27.6% vs 22.4%)
+- Male customers generated ~68% of revenue ($157,890 vs $75,191), mainly because they are 68% of customers; average spend per customer is similar ($59.54 vs $60.25)
+- Clothing is the top category by revenue ($104K), followed by Accessories ($74K)
+- Young Adults (18-31) contribute the most revenue ($62K, ~27%), though differences between age groups are modest
+- Hats, sneakers and coats have the highest share of discounted purchases (~49-50%)
+- The Loyal segment (more than 10 previous purchases) makes up 80% of customers and ~80% of revenue
+- Average purchase differs little across shipping types ($58-61); 2-Day ($60.73) and Express ($60.48) are slightly higher than Standard ($58.46)
 
 Business Recommendations
-Introduce customer loyalty programs
-Promote subscription-based benefits
-Optimize discount strategies for profitability
-Focus marketing on high-value customer segments
-Highlight top-performing products in campaigns
+- Run subscription-conversion campaigns for non-subscribers, who make up 73% of customers and spend as much as subscribers
+- Introduce loyalty programs to move Returning and New customers toward the Loyal segment, which drives ~80% of revenue
+- Review discount strategy for hats, sneakers and coats, where about half of purchases are discounted
+- Focus marketing on Young Adults and on Clothing, the top segment and top category by revenue
+- Highlight top-rated products such as gloves, sandals and boots in campaigns
